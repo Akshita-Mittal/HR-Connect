@@ -673,3 +673,14 @@
 	/* Retina-specific stuff here */
 
 }
+
+
+@media(max-width: 375px){
+	.tp-caption {
+		left: 0 !important;
+	}
+	
+	.tp-caption.btn02{
+		left: 50px !important;
+	}
+}
